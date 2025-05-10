@@ -7,15 +7,6 @@
 
 ---
 
-
-🎓 Final-year B.Tech student in Artificial Intelligence & Data Science at MITS, Kerala  
-🌱 Passionate about AI, Data Science, and meaningful tech applications  
-🎯 Focused on building intelligent, creative, and impactful systems  
-🎶 Music lover | 🎹 Keyboardist | 🥁 Percussionist | 🧠 Curious explorer
-
-
----
-
 ## 🚀 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
