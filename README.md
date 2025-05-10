@@ -5,7 +5,7 @@
 🎓 Final-year B.Tech student in Artificial Intelligence & Data Science at MITS, Kerala  
 🌱 Passionate about AI, Data Science, and meaningful tech applications  
 🎯 Focused on building intelligent, creative, and impactful systems  
-🎶 Music lover | 🎹 Keyboardist | 🧠 Curious explorer
+🎶 Music lover | 🎹 Keyboardist | 🧠 Curious explorer 
 
 ---
 
@@ -24,17 +24,13 @@
 
 ## 📌 Featured Projects
 
-🔹 **Melodify** – *Emotion & Weather-based Indian Music Recommender*  
-🎵 AI + Emotion Detection + Raga-based Recommendation  
-⚙️ Stack: Python, OpenCV, SQLite, Streamlit
+🔹  **Mini Project** – *Emotion & Weather-based Indian Music Recommender*  
+🎵 AI + Emotion Detection + Weather Detection + Raga-based Music Recommendation  
+⚙️ Stack: Python, OpenCV, SQLite, Flask
 
 🔹 **TDS Project** – *Data Analytics & Visualization*  
 📊 Automated insights and storytelling from CSV datasets  
 ⚙️ Stack: Python, Pandas, Matplotlib, AI Narration
-
-🔹 **Mini Project** – *Classical ML Models in Real-world Scenarios*  
-🧠 Decision Trees, Regression, Classification applied to real use-cases  
-⚙️ Stack: Scikit-learn, Python
 
 🔹 **IIT HTML Project**  
 📄 Basic frontend project as part of web dev learning
