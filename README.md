@@ -1,11 +1,18 @@
 # 👋 Hi, I'm Madhavdas M
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+%26+DS+Enthusiast;Creative+Thinker+%7C+Keyboardist;Full+of+Ideas+%7C+Final+Year+Student)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=3366CC&lines=AI+%26+DS+Enthusiast;Developer+%7C+Keyboardist+%7C+Percussionist;Always+Learning+%7C+Final+Year+Student" alt="Typing SVG" />
+</p>
+
+
+---
+
 
 🎓 Final-year B.Tech student in Artificial Intelligence & Data Science at MITS, Kerala  
 🌱 Passionate about AI, Data Science, and meaningful tech applications  
 🎯 Focused on building intelligent, creative, and impactful systems  
-🎶 Music lover | 🎹 Keyboardist | 🧠 Curious explorer 
+🎶 Music lover | 🎹 Keyboardist | 🥁 Percussionist | 🧠 Curious explorer
+
 
 ---
 
@@ -24,16 +31,17 @@
 
 ## 📌 Featured Projects
 
-🔹  **Mini Project** – *Emotion & Weather-based Indian Music Recommender*  
-🎵 AI + Emotion Detection + Weather Detection + Raga-based Music Recommendation  
-⚙️ Stack: Python, OpenCV, SQLite, Flask
+🔹 **Mini Project** – Emotion & Weather-based Indian Music Recommender  
+&nbsp;&nbsp;&nbsp;&nbsp;🎵 AI + Emotion Detection + Weather Detection + Raga-based Music Recommendation  
+&nbsp;&nbsp;&nbsp;&nbsp;⚙️ Stack: Python, OpenCV, SQLite, Flask
 
-🔹 **TDS Project** – *Data Analytics & Visualization*  
-📊 Automated insights and storytelling from CSV datasets  
-⚙️ Stack: Python, Pandas, Matplotlib, AI Narration
+🔹 **TDS Project** – Data Analytics & Visualization  
+&nbsp;&nbsp;&nbsp;&nbsp;📊 Automated insights and storytelling from CSV datasets  
+&nbsp;&nbsp;&nbsp;&nbsp;⚙️ Stack: Python, Pandas, Matplotlib, AI Narration
 
 🔹 **IIT HTML Project**  
-📄 Basic frontend project as part of web dev learning
+&nbsp;&nbsp;&nbsp;&nbsp;📄 Basic frontend project as part of web dev learning
+
 
 ---
 
@@ -53,9 +61,10 @@
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavdasm)  
-📧 *Add your email here if you'd like*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavdasm) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/madhavdas__m) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavdasm17@gmail.com)
 
 ---
 
 _“Code with purpose. Create with passion. Share with impact.”_
+
+
