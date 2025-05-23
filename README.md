@@ -29,7 +29,7 @@
 
 ## 📌 Featured Projects
 
-🔹 **Mini Project** – Emotion & Weather-based Indian Music Recommender  
+🔹 **Melodify** – Emotion & Weather-based Indian Music Recommender  
 &nbsp;&nbsp;&nbsp;&nbsp;🎵 AI + Emotion Detection + Weather Detection + Raga-based Music Recommendation  
 &nbsp;&nbsp;&nbsp;&nbsp;⚙️ Stack: Python, OpenCV, SQLite, Flask
 
