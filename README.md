@@ -1,3 +1,5 @@
+![Alt text](profile.png)
+
 # 👋 Hi, I'm Madhavdas M
 
 <p align="center">
